@@ -1,0 +1,5 @@
+MESA = (M, B, A, P) a primeira linha do arquivo é um comentário
+M = 10 x 18
+B = { (4,3 - 8,3), (8,3 - 8,15), (4,5 - 4,11), (5,9 - 7,9), (5,11 - 6,11) }
+A = { (5,8), (5,10) }
+P = { (1,1), D }
